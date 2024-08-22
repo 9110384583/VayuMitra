@@ -1,4 +1,4 @@
-# Vataavaran
+# VayuMitra
 A simple web application that allows users to search for weather information by city name. The app fetches real-time weather data from the OpenWeatherMap API and displays it in an easy-to-read format.
 
 ## Features
@@ -28,12 +28,12 @@ To run this project locally, you will need a basic understanding of web developm
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/9110384583/Vataavaran.git
+   git clone https://github.com/9110384583/VayuMitra.git
    ```
 
 2. **Navigate to the project directory**:
    ```bash
-   cd Vataavaran
+   cd VayuMitra
    ```
 
 3. **Open the `index.html` file in your browser**:
@@ -75,4 +75,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Your Name - [Vijji Mahi Varshitha](mailto:vijjimahivarshitha@gmail.com)
 
-Project Link: [Vataavaran](https://github.com/9110384583/Vataavaran)
+Project Link: [VayuMitra](https://github.com/9110384583/VayuMitra)
