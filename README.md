@@ -73,6 +73,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-Your Name - [sachith uttarwar](mailto:sachithuttarwar23@gmail.com)
+Your Name - [Vijji Mahi Varshitha](mailto:vijjimahivarshitha@gmail.com)
 
-Project Link: [Vataavaran](https://github.com/Sachith2716/Vataavaran)
+Project Link: [Vataavaran](https://github.com/9110384583/Vataavaran)
