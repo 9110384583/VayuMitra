@@ -28,7 +28,7 @@ To run this project locally, you will need a basic understanding of web developm
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Sachith2716/Vataavaran.git
+   git clone https://github.com/9110384583/Vataavaran.git
    ```
 
 2. **Navigate to the project directory**:
